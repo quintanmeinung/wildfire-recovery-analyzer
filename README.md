@@ -18,8 +18,12 @@ This project automates the process of loading satellite data, computing NDVI, an
 
 ##  Project Structure
 wildfire-recovery-analyzer/
-├── data/ # imagery and results
-├── src/ # main Python scripts
-├── notebooks/ # Jupyter notebooks
-├── requirements.txt
-└── README.md
+~ data/ # imagery and results
+~ src/ # main Python scripts
+~ notebooks/ # Jupyter notebooks
+~ requirements.txt
+~ README.md
+
+### Preview
+![NDVI](data/processed/ndvi.png)
+![NDVI Histogram](data/processed/ndvi_hist.png)
